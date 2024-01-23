@@ -26,5 +26,5 @@ Crescer dentro do mundo tecnologico e trabalhar na area de analise ou ciência d
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thafisG)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Linguagens mais utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thafisG&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thafisG&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
