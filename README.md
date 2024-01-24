@@ -4,7 +4,7 @@
 ## Olá, meu nome é Thais Fernanda (thafisG)😊
 
 #### Estudante de Gestão da Informação - UFPE
-#### Tecnica em Jogos Digitais 
+#### Tecnica em Programação de Jogos Digitais 
 
 ## Objetivo 🎯
 Crescer dentro do mundo tecnologico e trabalhar na area de analise ou ciência de dados.
