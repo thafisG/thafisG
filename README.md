@@ -17,6 +17,7 @@ Crescer dentro do mundo tecnologico e trabalhar na area de analise ou ciência d
 - C# 
 - Python
 - Power BI
+- Analise de Dados
 - Arquitetura da Informação
 - Bot Boos
 - SQL
