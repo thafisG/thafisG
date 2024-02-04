@@ -1,13 +1,9 @@
-### Hi there 👋
-
-
-## Olá, meu nome é Thais Fernanda (thafisG)😊
-
-#### Estudante de Gestão da Informação - UFPE
-#### Tecnica em Programação de Jogos Digitais 
+<h1 align="center">Olá 👋, sou Thais Fernanda</h1>
+<h3 align="center">Estudante de Gestão da Informação apaixonada na area de dados</h3>
+<h3 align="center">Tecnica em Programação de Jogos Digitais - NAVE Recife</h3>
 
 ## Objetivo 🎯
-Crescer dentro do mundo tecnologico e trabalhar na area de analise ou ciência de dados.
+Crescer dentro do mundo tecnologico e trabalhar na area de analise e ciência de dados.
 
 ## Conecte-se comigo
 
@@ -21,7 +17,9 @@ Crescer dentro do mundo tecnologico e trabalhar na area de analise ou ciência d
 - Arquitetura da Informação
 - Bot Boos
 - SQL
-- Java (Básico)
+- Java
+- Unity
+- Pandas e Numpy
 
 ### 📊 Estatísticas no GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thafisG)](https://github.com/anuraghazra/github-readme-stats)
