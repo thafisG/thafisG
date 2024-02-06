@@ -3,7 +3,7 @@
 <h3 align="center">Tecnica em Programação de Jogos Digitais - NAVE Recife</h3>
 
 ## Objetivo 🎯
-Crescer dentro do mundo tecnologico e trabalhar na area de analise e ciência de dados.
+Crescer dentro da área de dados e unir a inovação com os dados, com o objetivo de criar coisas fantásticas.
 
 ## Conecte-se comigo
 
