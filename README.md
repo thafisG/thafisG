@@ -42,6 +42,4 @@ Sou extremamente curiosa, engenhosa e fascinada por tecnologia, sempre to criand
  
   - Badges by <a href="https://shields.io/">shields.io</a>.
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>.
-  - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
-
 </details>
