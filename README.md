@@ -23,7 +23,7 @@ Sou extremamente curiosa, engenhosa e fascinada por tecnologia, sempre to criand
 
 <h3 align="left">Connect with me!</h3>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/thais-guedes-7a69b027b/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/thaisferguedes/)
 
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thafisG&show_icons=true&theme=transparent)
