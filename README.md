@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DF1FF7&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Thais+Fernanda!)](https://git.io/typing-svg)
 
-Sou estudante de Gestão da Informação apaixonada na area de dados.
-Sou extremamente curiosa, engenhosa e fascinada por tecnologia, sempre to criando ou testando algo novo! 
+Sou uma desenvolvedora apaixonada por tecnologia, curiosa de carteirinha e cheia de criatividade! Adoro explorar ideias, criar projetos incríveis e transformar desafios em soluções. Sempre com brilho nos olhos, estou constantemente testando algo novo e aprendendo com cada experiência. 🌟💻
 
 <h3 align="left">My Stack</h3>
 <div align="left">
